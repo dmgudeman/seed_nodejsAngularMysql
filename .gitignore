@@ -1,0 +1,12 @@
+.DS_Store
+
+typings
+/node_modules
+jspm_packages
+bower_components
+/public/js
+.idea
+
+error.log
+
+*/npm-debug.log
